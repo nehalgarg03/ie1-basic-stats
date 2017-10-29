@@ -8,7 +8,11 @@ Basic Statistics uses the Apache Ant build system. **Make sure that you have [An
 
 #### How to build Basic Statistics and run its tests from the terminal:
 
+<<<<<<< HEAD
 1. Change into the Basic Statistics root directory, which contains the *build.xml* build file.
+=======
+2. cd into the Basic Statistics root directory, which contains the `build.xml` build file.
+>>>>>>> c2b3163... clearing up step 2
 
 2. Run `ant compile` to compile Basic Statistics. The compiled class files will be in the *bin* directory.
 
