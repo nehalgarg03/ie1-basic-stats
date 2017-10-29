@@ -22,11 +22,12 @@ How to run Basic Statistics (from the terminal):
 
 1. After building the project (i.e., running `ant`), cd into the `bin` directory and run: `java BasicStats`. The application's GUI will show up.
 
-#### Program features:
+Program features:
 * Displays a set of entered numbers.
 * Computes the mean of the set of numbers.
 * Computes the median of the set of numbers.
 * Computes the mode of the set of numbers.
+<<<<<<< HEAD
 
 ## Troubleshooting
 
@@ -45,3 +46,5 @@ BUILD FAILED
 build.xml:17 Unable to find a javac compiler;
 ```
 Make sure that you have a JDK installed and that the JAVA_HOME environment variable is properly set.
+=======
+>>>>>>> 0f983c1... tweaked the program features description
