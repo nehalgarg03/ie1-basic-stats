@@ -1,7 +1,7 @@
 # Basic Statistics
 
 EDITING THE READ ME FILE IN THE MASTER BRANCH 
-MAKING FURTHER CHANGES TO THIS FILE AGAIN
+MAKING FURTHER CHANGES TO THIS FILE AGAIN AGAIN
 
 
 Basic Statistics is a Java-based implementation for computing statistics on a set of numbers.
